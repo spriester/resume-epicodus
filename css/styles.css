@@ -1,28 +1,35 @@
 h2 {
+  font-family: serif;
   text-align: center;
 }
 
 .contact {
+  font-family: serif;
   text-align: center;
   font-style: italic;
 }
 
 .education {
+  font-family: serif;
   text-align: left;
 }
 
 .experience {
+  font-family: serif;
   text-align: left;
 }
 
 .skills {
+  font-family: serif;
   text-align: left;
 }
 
 .certifications {
+  font-family: serif;
   text-align: left;
 }
 
 .newsection {
+  font-family: serif;
   font-weight: bold;
 }
