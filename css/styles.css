@@ -4,6 +4,7 @@ h2 {
 
 .contact {
   text-align: center;
+  font-style: italic;
 }
 
 .education {
@@ -15,5 +16,13 @@ h2 {
 }
 
 .skills {
-  text-align:left;
+  text-align: left;
+}
+
+.certifications {
+  text-align: left;
+}
+
+.newsection {
+  font-weight: bold;
 }
